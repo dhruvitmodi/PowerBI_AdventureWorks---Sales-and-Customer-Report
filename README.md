@@ -1,6 +1,9 @@
 # PowerBI_AdventureWorks-Sales-and-Customer-Report
 PowerBI Sales Performance Report - Categorized by Sales Person, Sales Team, Categoty and Geography location
 
+Description : For this project, first connect with datasourse(multiple Excel files), create table relationships and data models. Create measures and DAX formulas for analysis of various tables and report. Finally design stunning, interactive dashboards using various tools.
+
+
 DataSource : https://www.udemy.com/course/microsoft-power-bi-up-running-with-power-bi-desktop/
 
 RawData File : AdventureWorks+CSV+Files.zip
