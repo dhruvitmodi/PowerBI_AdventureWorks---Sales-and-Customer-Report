@@ -13,4 +13,5 @@ Also, Check below images for all the Sales, Product and Customer related reports
 
 1. Executive Summary : High level idea of overall sales related data
 
-[1  Executive Summary](https://user-images.githubusercontent.com/19344819/227927953-f30187b7-5621-4d0f-96ec-f5489f5eae86.PNG)
+
+![1  Executive Summary](https://user-images.githubusercontent.com/19344819/227928092-24316998-cdb7-4d28-ad6e-b0d351322320.PNG)
