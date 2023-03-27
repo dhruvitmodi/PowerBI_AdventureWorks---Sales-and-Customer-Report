@@ -1,5 +1,5 @@
 # PowerBI_AdventureWorks-Sales-and-Customer-Report
-PowerBI Sales Performance Report - Categorized by Sales Person, Sales Team, Categoty and Geography location
+Business Intelligence Report for AdventureWorks Company- Categorized Business Intelligence into three reports Executive Summary, Product and Customer Detail
 
 Project Work Description : 
 
