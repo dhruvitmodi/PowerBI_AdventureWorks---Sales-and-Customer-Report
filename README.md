@@ -3,7 +3,7 @@ Business Intelligence Report for AdventureWorks Company- Categorized Business In
 
 Project Work Description : 
 
-- For this project, first connect with datasourse(multiple Excel files)
+- For this project, first connect with datasources (multiple Excel files)
 - Create table relationships and data models
 - Create measures and DAX formulas for analysis of various data
 - Finally design stunning, interactive dashboards using various tools.
