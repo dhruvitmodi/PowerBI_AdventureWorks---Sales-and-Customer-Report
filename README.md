@@ -1,4 +1,4 @@
-# PowerBI_AdventureWorks-Sales-and-Customer-Report
+# PowerBI_AdventureWorks-BusinessIntelligence-Report
 Business Intelligence Report for AdventureWorks Company- Categorized Business Intelligence into three reports Executive Summary, Product and Customer Detail
 
 Project Work Description : 
